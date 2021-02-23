@@ -1,23 +1,23 @@
-import React,{useState, useEffect}from 'react'
+import React from 'react';
+import Main from '../src/components/Main/';
+import Wrapper from '../src/components/Wrapper/';
 import Hero from '../src/components/Hero/Hero'
 
-require("es6-promise").polyfill();
-require("isomorphic-fetch")
+
 
 const App = () => {
-  const [data, setData] = useState([]);
-  const [q, setQ] = useState("");
-
-useEffect(()=>{
-  fetch("https://randomuser.me/api/?results=200&nat=us")
-     .then((response) => response.json())
-     .then((json)=> setData(json))
-})
+ 
 
 
   return (
     <div className="hero">
+      <Wrapper>
       <Hero />
+      <Main />
+      </Wrapper>
+     
+      
+      
       
     </div>
     
