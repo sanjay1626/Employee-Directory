@@ -42,7 +42,7 @@ Currently this project is deployed [here](), but can also be ran locally if you 
 
 ### <a name="Installation"></a>Installation
 
-Users can view the deployed project [here](heroku link). If you intend to iterate on the project, besides downloading the repo to your machine, be sure to run `npm i` in the root directory and to also have MongoDB installed and ready.
+Users can view the deployed project [here](heroku link). If you intend to iterate on the project, besides downloading the repo to your machine, be sure to run `npm i` in the root directory.
 
 ### <a name="Usage"></a>Usage
 
