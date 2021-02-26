@@ -37,9 +37,8 @@ Currently this project is deployed [here](), but can also be ran locally if you 
 
 ### <a name="Screenshots"></a>Screenshots
 
-![Past]()
-![Entering]()
-![Stats]()
+![Intro](employee-directory\public\Intro.jpg)
+![Search](employee-directory\public\Search.png)
 
 ### <a name="Installation"></a>Installation
 
