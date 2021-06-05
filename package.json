@@ -9,7 +9,7 @@
     "gh-pages": "^3.2.0",
     "save-dev": "0.0.1-security"
   },
-  "homepage": "https://github.com/sanjay1626/Employee-Directory",
+  "homepage": "https://github.com/sanjay1626/Employee-Directory.git",
   "devDependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
