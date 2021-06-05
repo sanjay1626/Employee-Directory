@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sanjay1626/Employee-Directory/static/css/main.82964460.chunk.css",
+    "main.js": "/sanjay1626/Employee-Directory/static/js/main.e867c7f9.chunk.js",
+    "main.js.map": "/sanjay1626/Employee-Directory/static/js/main.e867c7f9.chunk.js.map",
+    "runtime-main.js": "/sanjay1626/Employee-Directory/static/js/runtime-main.b3ffc984.js",
+    "runtime-main.js.map": "/sanjay1626/Employee-Directory/static/js/runtime-main.b3ffc984.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/sanjay1626/Employee-Directory/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.ae90619c.chunk.js": "/sanjay1626/Employee-Directory/static/js/2.ae90619c.chunk.js",
+    "static/js/2.ae90619c.chunk.js.map": "/sanjay1626/Employee-Directory/static/js/2.ae90619c.chunk.js.map",
+    "index.html": "/sanjay1626/Employee-Directory/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/sanjay1626/Employee-Directory/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.82964460.chunk.css.map": "/sanjay1626/Employee-Directory/static/css/main.82964460.chunk.css.map",
+    "static/js/2.ae90619c.chunk.js.LICENSE.txt": "/sanjay1626/Employee-Directory/static/js/2.ae90619c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3ffc984.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.ae90619c.chunk.js",
+    "static/css/main.82964460.chunk.css",
+    "static/js/main.e867c7f9.chunk.js"
+  ]
+}
