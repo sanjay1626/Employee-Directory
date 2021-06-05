@@ -33,15 +33,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/sanjay1626/Employee-Directory.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/sanjay1626/Employee-Directory/issues"
-  },
+ 
   "browserslist": {
     "production": [
       ">0.2%",
